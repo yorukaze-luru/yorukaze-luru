@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yorukaze-luru&theme=2077)
+[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yorukaze-luru&theme=2077)
 [![trophy](https://github-profile-trophy.vercel.app/?username=yorukaze-luru&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
